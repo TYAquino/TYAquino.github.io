@@ -34,7 +34,7 @@ function recalculate(model) {
     if (model == 'Model XYZ') {
         total_cost = parseFloat(duration.innerHTML) * 100;
     } 
-    else if (model == 'Model CPRG'); {
+    else if (model == 'Model CPRG') {
         total_cost = parseFloat(duration.innerHTML) * 213;
     }
     total_cost = parseFloat(total_cost);
